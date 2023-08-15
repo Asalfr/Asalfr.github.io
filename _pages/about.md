@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Barcelona, Spain. asal.forouzandeh@gmail.com. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. 
+  Barcelona, Spain. asal.forouzandeh@gmail.com. 
+  Moto. Etc.
 
 profile:
   align: right
@@ -19,8 +21,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Here is my bio
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+In 2016, I embarked on my academic adventure in Toulouse, France, where I pursued a double degree MSc in European Animal Management at [Ecole d'Ingénieurs de PURPAN] (https://www.purpan.fr/). Following that, I continued my journey in Debrecen, Hungary, immersing myself in the realm of Sustainable Animal Nutrition and Feeding at the [University of Debrecen] (https://www.edu.unideb.hu/). 
+
+I recently completed my PhD in Animal Production at the [SNiBA] (https://sniba.es/?lang=en) group of [Universitat Autònoma de Barcelona] (https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html). My research primarily revolved around pigs and poultry. Guided by the expertise of [José Francisco Pérez] (https://sniba.es/conocenos/quienes-somos/jose-francisco-perez/) and [David Solà Oriol] (https://sniba.es/conocenos/quienes-somos/david-sola-oriol/), I delved into the fascinating world of trace minerals, specifically copper (Cu), as feed additives. Beyond just boosting animal production, I also explored their broader impact on the environment.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
